@@ -12,4 +12,4 @@ Future Tasks:
 - Create a TF Modul for Traffic Manager.
 - Setup GitHub Action Pipeline for Deployment. 
 - Limit Access to Kubernetes api using ZeroTrust. (Or Bastion)
-- Fix Technical Deb
+- Fix Technical Deb# terraform_aks_multi_region
