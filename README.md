@@ -1,6 +1,7 @@
 # terraform_aks_multi_region
 
-This Project Create a Multi Region AKS Scenario using the Global Azure Traffic Manager to manage requests.
+This Project was for a Challange to buld Multi Region AKS Scenario using the Global Azure Traffic Manager to manage requests.
+I should Deploy Ingress and a Hello World Application using Helm and add a auto scaling on CPU usage.
 
 ![Architecture](architecture.png?raw=true "Title")
 
